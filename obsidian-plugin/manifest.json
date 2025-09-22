@@ -1,0 +1,10 @@
+{
+  "id": "ideacards-sync",
+  "name": "Idea Cards Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Двухсторонняя синхронизация карточек Idea Cards с папкой Obsidian.",
+  "author": "Idea Cards",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}

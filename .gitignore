@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+build/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo-shared/
+*.log
+obsidian-plugin/node_modules/
+obsidian-plugin/main.js
+obsidian-plugin/main.js.map
+obsidian-plugin/package-lock.json
+.env
